@@ -1,2 +1,1 @@
-# degrees
-Master &amp; Bachelor Degrees
+# Master & Bachelor Degrees
