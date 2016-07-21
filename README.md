@@ -1,5 +1,5 @@
 # Master of Science
-## Distributed Computing
+# Distributed Computing
 
 Universities
 - Royal Institute of Technology - KTH, Stockholm, Sweden #[kth.se](kth.se)
@@ -10,7 +10,7 @@ Download Links
 - Master Degree Certificate: [https://github.com/qi-qi/degree/raw/master/MasterDegreeCertificate_KTH.pdf] (https://github.com/qi-qi/degree/raw/master/MasterDegreeCertificate_KTH.pdf)
 
 # Bachelor of Science
-## Telecommunications Engineering with Management
+# Telecommunications Engineering with Management
 
 Universities
 - Queen Mary University of London - QMUL, London, United Kingdom #[qmul.ac.uk](qmul.ac.uk)
