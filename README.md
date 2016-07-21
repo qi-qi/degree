@@ -1,1 +1,1 @@
-# Master & Bachelor Degrees
+# Master of Science, Distributed Computing
