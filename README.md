@@ -1,4 +1,4 @@
-# Master of Science, Distributed Computing
+# Master of Science - Distributed Computing
 
 Universities
 - Royal Institute of Technology - KTH, Stockholm, Sweden #[kth.se](kth.se)
@@ -8,7 +8,7 @@ Download Links
 - Master Degree: [https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf] (https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf)
 - Master Degree Certificate: [https://github.com/qi-qi/degree/raw/master/MasterDegreeCertificate_KTH.pdf] (https://github.com/qi-qi/degree/raw/master/MasterDegreeCertificate_KTH.pdf)
 
-# Bachelor of Science, Telecommunications Engineering with Management
+# Bachelor of Science - Telecommunications Engineering with Management
 
 Universities
 - Queen Mary University of London - QMUL, London, United Kingdom #[qmul.ac.uk](qmul.ac.uk)
@@ -23,3 +23,7 @@ Download Links
 ![](https://github.com/qi-qi/degree/raw/master/img/MasterDegree_KTH.jpg)
 ![](https://github.com/qi-qi/degree/raw/master/img/MasterDegreeCertificate1_KTH.jpg)
 ![](https://github.com/qi-qi/degree/raw/master/img/MasterDegreeCertificate2_KTH.jpg)
+![](https://github.com/qi-qi/degree/raw/master/img/BachelorDegree_QMUL.jpg)
+![](https://github.com/qi-qi/degree/raw/master/img/BachelorDegreeCertificate_QMUL.jpg)
+![](https://github.com/qi-qi/degree/raw/master/img/BachelorDegree_BUPT.jpg)
+![](https://github.com/qi-qi/degree/raw/master/img/BachelorDegreeCertificate_BUPT.jpg)
