@@ -1,8 +1,8 @@
 # Master of Science, Distributed Computing
 
 Universities
-- Royal Institute of Technology - KTH, Stockholm, Sweden (kth.se)
-- Instituto Superior Técnico University of Lisbon - IST, Lisbon, Portugal (tecnico.ulisboa.pt)
+- Royal Institute of Technology - KTH, Stockholm, Sweden ![kth.se](kth.se)
+- Instituto Superior Técnico University of Lisbon - IST, Lisbon, Portugal ![tecnico.ulisboa.pt](tecnico.ulisboa.pt)
 
 Download Links
 - Master Degree: [https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf] (https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf)
