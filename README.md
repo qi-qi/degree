@@ -5,7 +5,7 @@
 - Instituto Superior Técnico University of Lisbon - IST, Lisbon, Portugal #[tecnico.ulisboa.pt](tecnico.ulisboa.pt)
 
 `Download Links`
-- Master Degree - KTH: [https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf] (https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf)
+- Master Degree - KTH: [https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf](https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf)
 - Master Degree - IST: [https://github.com/qi-qi/degree/raw/master/MasterDegree_IST.pdf] (https://github.com/qi-qi/degree/raw/master/MasterDegree_IST.pdf)
 - Master Degree Certificate: [https://github.com/qi-qi/degree/raw/master/MasterDegreeCertificate_KTH.pdf] (https://github.com/qi-qi/degree/raw/master/MasterDegreeCertificate_KTH.pdf)
 
