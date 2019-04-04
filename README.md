@@ -1,8 +1,8 @@
 # Master of Science - Distributed Computing
 
 `Universities`
-1. Royal Institute of Technology - KTH, Stockholm, Sweden #[kth.se](kth.se)
-2. Instituto Superior Técnico University of Lisbon - IST, Lisbon, Portugal #[tecnico.ulisboa.pt](tecnico.ulisboa.pt)
+1. Royal Institute of Technology - KTH, Stockholm, Sweden - [https://www.kth.se](https://www.kth.se)
+2. Instituto Superior Técnico University of Lisbon - IST, Lisbon, Portugal - [https://tecnico.ulisboa.pt](https://tecnico.ulisboa.pt)
 
 `Download Links`
 - Master Degree - KTH: [https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf](https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf)
@@ -12,8 +12,8 @@
 # Bachelor of Science - Telecommunications Engineering with Management
 
 `Universities`
-1. Queen Mary University of London - QMUL, London, United Kingdom #[qmul.ac.uk](qmul.ac.uk)
-2. Beijing University of Posts and Telecommunications - BUPT, Beijing, China #[bupt.edu.cn](bupt.edu.cn)
+1. Queen Mary University of London - QMUL, London, United Kingdom - [https://www.qmul.ac.uk](https://www.qmul.ac.uk)
+2. Beijing University of Posts and Telecommunications - BUPT, Beijing, China - [https://www.bupt.edu.cn](https://www.bupt.edu.cn)
 
 `Download Links`
 - Bachelor Degree - QMUL: [https://github.com/qi-qi/degree/raw/master/BachelorDegree_QMUL.pdf](https://github.com/qi-qi/degree/raw/master/BachelorDegree_QMUL.pdf)
