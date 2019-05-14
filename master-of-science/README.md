@@ -4,8 +4,10 @@
 ## Distributed Computing in Computer Science
 `Master Degree Universities`
 1. Royal Institute of Technology - KTH, Stockholm, Sweden
+    - [https://www.kth.se](https://www.kth.se)
     - [https://www.kth.se/en](https://www.kth.se/en)
 2. Instituto Superior Técnico University of Lisbon - IST, Lisbon, Portugal
+    - [https://tecnico.ulisboa.pt](https://tecnico.ulisboa.pt)
     - [https://tecnico.ulisboa.pt/en](https://tecnico.ulisboa.pt/en)
 
 `Master Degree Thesis`
