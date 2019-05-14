@@ -1,5 +1,5 @@
 # Double Master Degrees: Master of Science
-2012 - 2014 | Obtained Erasmus Mundus Category-A Scholarship
+2012 - 2014: With Erasmus Mundus Category-A Scholarship
 
 ## Distributed Computing in Computer Science
 `Double Master Degrees: Universities`
@@ -14,7 +14,7 @@
 - Optimistic Concurrency Control in a Distributed NameNode Architecture for Hadoop Distributed File System (HDFS)
     - [https://github.com/qi-qi/thesis](https://github.com/qi-qi/thesis)
 
-`Double Master Degrees | Certificate | Scholarship => Download Links`
+`Double Master Degrees | Certificate | Scholarship`
 1. Master Degree 1: Royal Institute of Technology - KTH, Stockholm, Sweden
     - [https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf](https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf)
 2. Master Degree 2: Instituto Superior Técnico University of Lisbon - IST, Lisbon, Portugal
