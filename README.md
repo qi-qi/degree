@@ -1,6 +1,6 @@
 # Double Master Degrees: Master of Science
 2012 - 2014: Obtained Erasmus Mundus Category-A Scholarship
-    - https://github.com/qi-qi/degree
+- https://github.com/qi-qi/degree
 
 ## Distributed Computing in Computer Science
 `Double Master Degrees: Universities`
