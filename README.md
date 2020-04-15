@@ -4,10 +4,10 @@
 
 ## Distributed Computing in Computer Science
 `Double Master Degrees: Universities`
-1. Royal Institute of Technology - KTH, Stockholm, Sweden
+1. Royal Institute of Technology - KTH | Stockholm, Sweden
     - [https://www.kth.se](https://www.kth.se)
     - [https://www.kth.se/en](https://www.kth.se/en)
-2. Instituto Superior Técnico University of Lisbon - IST, Lisbon, Portugal
+2. Instituto Superior Técnico University of Lisbon - IST | Lisbon, Portugal
     - [https://tecnico.ulisboa.pt](https://tecnico.ulisboa.pt)
     - [https://tecnico.ulisboa.pt/en](https://tecnico.ulisboa.pt/en)
 
@@ -16,9 +16,9 @@
     - [https://github.com/qi-qi/thesis](https://github.com/qi-qi/thesis)
 
 `Double Master Degrees | Certificate | Scholarship`
-1. Master Degree 1: Royal Institute of Technology - KTH, Stockholm, Sweden
+1. Master Degree 1: Royal Institute of Technology - KTH | Stockholm, Sweden
     - [https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf](https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf)
-2. Master Degree 2: Instituto Superior Técnico University of Lisbon - IST, Lisbon, Portugal
+2. Master Degree 2: Instituto Superior Técnico University of Lisbon - IST | Lisbon, Portugal
     - [https://github.com/qi-qi/degree/raw/master/MasterDegree_IST.pdf](https://github.com/qi-qi/degree/raw/master/MasterDegree_IST.pdf)
 3. Double Master Degrees Certificate
     - [https://github.com/qi-qi/degree/raw/master/MasterDegreeCertificate_KTH.pdf](https://github.com/qi-qi/degree/raw/master/MasterDegreeCertificate_KTH.pdf)
@@ -32,11 +32,11 @@
 
 ## Double Master Degrees | Certificate | Scholarship
 
-### Royal Institute of Technology - KTH, Stockholm, Sweden
+### Royal Institute of Technology - KTH | Stockholm, Sweden
 [https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf](https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf)
 ![](https://github.com/qi-qi/degree/raw/master/img/MasterDegree_KTH.jpg)
 
-### Instituto Superior Técnico University of Lisbon - IST, Lisbon, Portugal
+### Instituto Superior Técnico University of Lisbon - IST | Lisbon, Portugal
 [https://github.com/qi-qi/degree/raw/master/MasterDegree_IST.pdf](https://github.com/qi-qi/degree/raw/master/MasterDegree_IST.pdf)
 ![](https://github.com/qi-qi/degree/raw/master/img/MasterDegree_IST.jpg)
 
@@ -57,9 +57,9 @@
 
 ## Telecommunications Engineering with Management
 `Double Bachelor Degrees: Universities`
-1. Queen Mary University of London - QMUL, London, United Kingdom
+1. Queen Mary University of London - QMUL | London, United Kingdom
     - [https://www.qmul.ac.uk](https://www.qmul.ac.uk)
-2. Beijing University of Posts and Telecommunications - BUPT, Beijing, China
+2. Beijing University of Posts and Telecommunications - BUPT | Beijing, China
     - [https://www.bupt.edu.cn](https://www.bupt.edu.cn)
     - [https://english.bupt.edu.cn](https://english.bupt.edu.cn)
 
@@ -69,13 +69,13 @@
    - [https://bitbucket.org/qi-qi/zebrafish/src](https://bitbucket.org/qi-qi/zebrafish/src)
 
 `Double Bachelor Degrees | Certificates & First Class Degree Hours`
-1. Bachelor Degree 1 - Queen Mary University of London - QMUL, London, United Kingdom
+1. Bachelor Degree 1 - Queen Mary University of London - QMUL | London, United Kingdom
     - [https://github.com/qi-qi/degree/raw/master/BachelorDegree_QMUL.pdf](https://github.com/qi-qi/degree/raw/master/BachelorDegree_QMUL.pdf)
-2. Bachelor Degree 2 - Beijing University of Posts and Telecommunications - BUPT, Beijing, China
+2. Bachelor Degree 2 - Beijing University of Posts and Telecommunications - BUPT | Beijing, China
     - [https://github.com/qi-qi/degree/raw/master/BachelorDegree_BUPT.pdf](https://github.com/qi-qi/degree/raw/master/BachelorDegree_BUPT.pdf)
-3. Bachelor Degree Certificate 1 - Queen Mary University of London - QMUL, London, United Kingdom
+3. Bachelor Degree Certificate 1 - Queen Mary University of London - QMUL | London, United Kingdom
     - [https://github.com/qi-qi/degree/raw/master/BachelorDegreeCertificate_QMUL.pdf](https://github.com/qi-qi/degree/raw/master/BachelorDegreeCertificate_QMUL.pdf)
-4. Bachelor Degree Certificate 2 - Beijing University of Posts and Telecommunications - BUPT, Beijing, China
+4. Bachelor Degree Certificate 2 - Beijing University of Posts and Telecommunications - BUPT | Beijing, China
     - [https://github.com/qi-qi/degree/raw/master/BachelorDegreeCertificate_BUPT.pdf](https://github.com/qi-qi/degree/raw/master/BachelorDegreeCertificate_BUPT.pdf)
 
 `Programme Description`
@@ -85,11 +85,11 @@
 
 ## Double Bachelor Degrees | Certificates & First Class Degree Hours
 
-### Queen Mary University of London - QMUL, London, United Kingdom
+### Queen Mary University of London - QMUL | London, United Kingdom
 [https://github.com/qi-qi/degree/raw/master/BachelorDegree_QMUL.pdf](https://github.com/qi-qi/degree/raw/master/BachelorDegree_QMUL.pdf)
 ![](https://github.com/qi-qi/degree/raw/master/img/BachelorDegree_QMUL.jpg)
 
-### Beijing University of Posts and Telecommunications - BUPT, Beijing, China
+### Beijing University of Posts and Telecommunications - BUPT | Beijing, China
 [https://github.com/qi-qi/degree/raw/master/BachelorDegree_BUPT.pdf](https://github.com/qi-qi/degree/raw/master/BachelorDegree_BUPT.pdf)
 ![](https://github.com/qi-qi/degree/raw/master/img/BachelorDegree_BUPT.jpg)
 
